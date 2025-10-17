@@ -1,6 +1,7 @@
 # Weather App
 
 A simple Next.js Weather Application that fetches current weather data for a given city using the **OpenWeatherMap API**.
+Deployed and accessible here: https://weather-app-psi-five-57.vercel.app/
 
 ---
 
